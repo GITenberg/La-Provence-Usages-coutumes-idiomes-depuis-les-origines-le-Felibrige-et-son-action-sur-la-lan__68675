@@ -1,11 +1,16 @@
 _repo: La-Provence-Usages-coutumes-idiomes-depuis-les-origines-le-Felibrige-et-son-action-sur-la-lan__68675
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68675-h/images/cover.jpg
 creator:
   author:
     agent_name: Oddo, Henri
     gutenberg_agent_id: '54897'
     url: http://www.gutenberg.org/2009/agents/54897
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68675#La-Provence-Usages-coutumes-idiomes-depuis-les-origines-le-Felibrige-et-son-action-sur-la-lan_
 gutenberg_issued: '2022-08-03'
 identifiers:
   gutenberg: '68675'
