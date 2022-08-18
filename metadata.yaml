@@ -1,0 +1,28 @@
+_repo: La-Provence-Usages-coutumes-idiomes-depuis-les-origines-le-Felibrige-et-son-action-sur-la-lan__68675
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oddo, Henri
+    gutenberg_agent_id: '54897'
+    url: http://www.gutenberg.org/2009/agents/54897
+description: ''
+gutenberg_issued: '2022-08-03'
+identifiers:
+  gutenberg: '68675'
+language: fr
+pgterms:marc904: https://archive.org/details/laprovenceusages00oddouoft
+pgterms:marc905: 20201103133016oddo
+pgterms:marc906: '1902'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Hans Pieterse and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: France :H. Le Soudier,1902.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La Provence: Usages, coutumes, idiomes depuis les origines; le Félibrige et
+  son action sur la langue provençale, avec une grammaire provençale abrégée'
+url: http://www.gutenberg.org/ebooks/68675
